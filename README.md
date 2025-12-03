@@ -91,3 +91,16 @@ API_KEY = "YOUR_API_KEY_HERE"
 Execute the main script in your terminal:
 python SkorTahmin.py
 ```
+
+## 👨‍💻 Developer
+
+**Ömer Faruk Karaköy**    
+🌐 GitHub: [github.com/OmerFarukKarakoy](https://github.com/OmerFarukKarakoy)  
+📧 Mail: omerfarukkarakoy@hotmail.com
+
+---
+## License
+
+This project is licensed under the MIT License.  
+© 2025 Ömer Faruk Karakoy — You are free to use, modify, and distribute this software.  
+Provided "as is", without warranty of any kind.
