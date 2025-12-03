@@ -69,3 +69,18 @@ The system uses a weighted blending approach to generate predictions:
 ```bash
 git clone [https://github.com/OmerFarukKarakoy/Football-Predictor-Model-XGB.git](https://github.com/OmerFarukKarakoy/Football-Predictor-Model-XGB.git)
 cd Football-Predictor-Model-XGB
+```
+### 2. Get your API key
+```bash
+Create a free key from: 👉 https://www.football-data.org/
+```
+### 3. Add your key inside SkorTahmin.py
+```bash
+Open the file and replace the placeholder:
+API_KEY = "YOUR_API_KEY_HERE"
+```
+### 4. Usage (Run the Program)
+```bash
+Execute the main script in your terminal:
+python SkorTahmin.py
+```
