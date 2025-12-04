@@ -43,8 +43,7 @@ The system uses a weighted blending approach to generate predictions:
 
 ### 1. League Selection Menu
 *User-friendly interactive menu with country/region context.*
-<img width="755" height="348" alt="1-LeagueSelectionMenu" src="https://github.com/user-attachments/assets/c2711195-4398-4424-9c0d-8ab077199ebc" />
-
+<img width="753" height="348" alt="1-LeagueSelectionMenu" src="https://github.com/user-attachments/assets/c49f6505-609a-4c37-964f-a62c7ba4b652" />
 
 ### 2. Football Match Selection Menu
 <img width="752" height="325" alt="2-Football Match Selection Menu" src="https://github.com/user-attachments/assets/9563bdfe-9bf2-4b01-8adc-aa586ab1c6d4" />
