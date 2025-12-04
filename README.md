@@ -97,6 +97,8 @@ Execute the main script in your terminal:
 python SkorTahmin.py
 ```
 
+---
+
 ## 👨‍💻 Developer
 
 **Ömer Faruk Karaköy**    
@@ -104,6 +106,7 @@ python SkorTahmin.py
 📧 Mail: omerfarukkarakoy@hotmail.com
 
 ---
+
 ## License
 
 This project is licensed under the MIT License.  
