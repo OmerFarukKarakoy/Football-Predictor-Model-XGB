@@ -43,15 +43,17 @@ The system uses a weighted blending approach to generate predictions:
 
 ### 1. League Selection Menu
 *User-friendly interactive menu with country/region context.*
-<img width="645" height="345" alt="1-LeagueSelectionMenu" src="https://github.com/user-attachments/assets/3579bb05-9aff-4f70-b87a-eed278c7c4be" />
+<img width="755" height="348" alt="1-LeagueSelectionMenu" src="https://github.com/user-attachments/assets/c2711195-4398-4424-9c0d-8ab077199ebc" />
+
 
 ### 2. Football Match Selection Menu
-<img width="662" height="331" alt="2-Football Match Selection Menu" src="https://github.com/user-attachments/assets/b61e39f5-aa4a-4b7b-a38f-bf4771cd58ce" />
+<img width="752" height="325" alt="2-Football Match Selection Menu" src="https://github.com/user-attachments/assets/9563bdfe-9bf2-4b01-8adc-aa586ab1c6d4" />
 
 ### 3. Match Analysis and Score Prediction
-<img width="788" height="347" alt="3-MatchAnalysisandScorePrediction" src="https://github.com/user-attachments/assets/96c158a8-49d9-4411-bf97-fed8640af48b" />
-<img width="781" height="372" alt="3-MatchAnalysisandScorePrediction2" src="https://github.com/user-attachments/assets/ac889f59-1fa8-4d2b-a476-8f3673a1c13b" />
-<img width="728" height="108" alt="3-MatchAnalysisandScorePrediction3" src="https://github.com/user-attachments/assets/6137d5cd-5075-462f-8e8e-5d922036943e" />
+<img width="752" height="346" alt="3-MatchAnalysisandScorePrediction" src="https://github.com/user-attachments/assets/f8a165e1-b5a4-488d-b4cb-867ccc1c5006" />
+<img width="753" height="366" alt="3-MatchAnalysisandScorePrediction2" src="https://github.com/user-attachments/assets/bf5d805b-d409-465e-b502-2424463009ad" />
+<img width="752" height="97" alt="3-MatchAnalysisandScorePrediction3" src="https://github.com/user-attachments/assets/4ad52451-4f20-48e3-9e2a-9885b33ae72c" />
+
 
 ---
 
